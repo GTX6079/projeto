@@ -6,5 +6,6 @@ Tecnologias Utilizadas
 HTML: Estruturação das páginas web. 
 CSS: Estilização e design da interface.
 
-Funcionalidades Aplicadas Página informativa: Apresenta dados e dicas sobre a importância do sono.
+Funcionalidades Aplicadas
+Página informativa: Apresenta dados e dicas sobre a importância do sono.
 Interface responsiva: Adaptável para diferentes dispositivos (desktop, tablet, mobile)
