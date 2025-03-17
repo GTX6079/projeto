@@ -1,4 +1,4 @@
-# projeto
+#  https://gtx6079.github.io/projeto/
 
 projeto-prototipo
 Objetivo O projeto Lab Sono tem como propósito fornecer uma plataforma interativa para auxiliar no monitoramento e na melhoria da qualidade do sono dos usuarios. Através de uma interface simples, os usuários poderão acessar informações e ferramentas úteis para criar hábitos de sono mais saudáveis e encontrar auxilio.
